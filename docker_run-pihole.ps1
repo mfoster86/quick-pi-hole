@@ -27,3 +27,11 @@ function RemovePiHole {
 }
 
 
+#1
+GetPiHole
+
+#2
+RunPiHole
+
+#3
+RemovePiHole
